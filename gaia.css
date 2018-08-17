@@ -1,9 +1,8 @@
 body {
   font-size: 20px;
   color: #212529;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Cochin';
 }
-
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -20,7 +19,7 @@ h4,
 h5,
 h6 {
   font-weight: 800;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cochin';
 }
 
 a {
@@ -82,7 +81,7 @@ img::-moz-selection {
   position: absolute;
   border-bottom: 1px solid #e9ecef;
   background-color: silver;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cochin';
 }
 
 #mainNav .navbar-brand {
@@ -419,3 +418,10 @@ footer .copyright {
   padding: 25px 35px;
 }
 
+css
+h1{
+
+}
+body {
+  background: lightblue;
+}
